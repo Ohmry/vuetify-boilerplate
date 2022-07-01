@@ -1,4 +1,4 @@
-# vuetify-boilerplate
+# template
 
 ## Project setup
 ```
